@@ -53,16 +53,11 @@ header .container,
 }
 .header {
   border-bottom: 1px solid #e7e9fc;
-}
-.link-logo,
-.link-menu,
-.link-contact {
-  display: block;
   padding: 24px 0;
 }
 .menu {
   gap: 40px;
-  margin-left: 76px;
+  padding-left: 76px;
 }
 .list-contact {
   gap: 40px;
@@ -76,7 +71,6 @@ header .container,
   letter-spacing: 0.54px;
   text-transform: uppercase;
   color: #4d5ae5;
-  margin-right: 76px;
 }
 .part-logo {
   color: #2e2f42;

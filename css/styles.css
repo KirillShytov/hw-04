@@ -89,6 +89,13 @@ header .container,
 .link-menu:focus {
   color: #404bbf;
 }
+.menu:hover::after {
+  content: '';
+  width: 48px;
+  height: 4px;
+  background-color: #404bbf;
+}
+
 .contact {
   font-style: normal;
 }

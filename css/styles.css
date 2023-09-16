@@ -397,12 +397,12 @@ header .container,
 .list-footer {
   display: flex;
   gap: 16px;
-  padding: 16px 0;
+  padding: 0;
 }
 
 .footer-box {
   margin-right: 120px;
 }
-.text-footer-second {
-  margin: 0;
+.link-footer:hover {
+  background-color: #31d0aa;
 }

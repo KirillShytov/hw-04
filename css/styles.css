@@ -93,6 +93,7 @@ header .container,
   content: '';
   display: block;
   background-color: #404bbf;
+  color: #404bbf;
   position: absolute;
   width: 100%;
   left: 0;

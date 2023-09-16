@@ -332,12 +332,6 @@ header .container,
   overflow: hidden;
 }
 
-.product-overlay {
-  position: absolute;
-  color: #f4f4fd;
-  inset: 0;
-}
-
 .product:hover .text-overlay {
   transform: translateY(0);
 }

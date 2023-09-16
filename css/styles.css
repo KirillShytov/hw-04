@@ -406,3 +406,6 @@ header .container,
 .link-footer:hover {
   background-color: #31d0aa;
 }
+.link-footer:focus {
+  background-color: #31d0aa;
+}

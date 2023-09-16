@@ -280,21 +280,23 @@ header .container,
 }
 .list-icons-third-section {
   display: flex;
-  justify-content: space-around;
+  justify-content: center;
+  gap: 24px;
   align-items: center;
   padding: 12px;
 }
 .icon-section-third {
-  fill: #fff;
+  fill: #f4f4fd;
 }
 .link-section-third {
-  background-color: #404bbf;
+  background-color: #4d5ae5;
   border-radius: 50%;
   display: flex;
   justify-content: center;
   align-items: center;
   width: 40px;
   height: 40px;
+  transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 /* ---------------------------------- */
